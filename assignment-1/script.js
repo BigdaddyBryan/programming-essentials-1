@@ -1,7 +1,7 @@
 // Select the necessary DOM elements
-const heading = document.getElementById('');
-const textInput = document.getElementById('');
-const changeTextButton = document.getElementById('');
+const heading = document.getElementById('mainHeading');
+const textInput = document.getElementById('textInput');
+const changeTextButton = document.getElementById('changeTextButton');
 
 // Add an event listener to the button
 // the first argument is the event type
